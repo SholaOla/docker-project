@@ -1,0 +1,12 @@
+{
+    "name": "project-x",
+    "version": "1.0.0",
+    "description": "Web server using docker",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+       "http": "0.0.0" 
+    }
+}
